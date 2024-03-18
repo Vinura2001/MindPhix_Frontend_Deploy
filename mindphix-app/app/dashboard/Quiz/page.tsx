@@ -207,8 +207,8 @@ const QuizPage = () => {
 
             <div>
               <label className="block font-medium">
-                6. Have you been feeling bad about yourself or like you've let
-                yourself down?
+                6. Have you been feeling bad about yourself or like you&apos;ve let
+                    yourself down?
               </label>
               <select
                 value={answers.q6 || ""}
