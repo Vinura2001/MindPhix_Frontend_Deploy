@@ -233,7 +233,8 @@ function Index() {
       console.error('Error saving mood level:', error);
     }
   };
-  
+
+
   return (
     <BaseLayout>
       <div className="w-full min-h-screen flex justify-center items-center">
