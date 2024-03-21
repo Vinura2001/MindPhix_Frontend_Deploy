@@ -41,6 +41,7 @@ const sidebarItems = [
     name: "Chat",
     href: "/dashboard/Chat",
     icon: CiChat1,
+    newTab: true, 
   }
 ];
 
